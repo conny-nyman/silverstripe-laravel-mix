@@ -1,0 +1,15 @@
+{
+  "name": "conny-nyman/silverstripe-laravel-mix",
+  "license": "MIT",
+  "type": "silverstripe-vendormodule",
+  "require": {
+    "php": ">=7.0.0",
+    "silverstripe/framework": "^4",
+    "silverstripe/cms": "^4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ConnyNyman\\LaravelMix\\": "src/"
+    }
+  }
+}

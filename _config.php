@@ -1,0 +1,3 @@
+<?php
+
+define("SILVERSTRIPE_MDBOOSTRAP_BASE_DIR", __DIR__);
