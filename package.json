@@ -1,0 +1,19 @@
+{
+  "name": "silverstripe-mdbootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conny-nyman/silverstripe-mdbootstrap.git).git"
+  },
+  "author": "Conny Nyman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conny-nyman/silverstripe-mdbootstrap.git)/issues"
+  },
+  "homepage": "https://github.com/conny-nyman/silverstripe-mdbootstrap.git)#readme",
+  "dependencies": {
+    "mdbootstrap": "^4.8.9"
+  }
+}

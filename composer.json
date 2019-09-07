@@ -1,5 +1,5 @@
 {
-  "name": "conny-nyman/silverstripe-laravel-mix",
+  "name": "conny-nyman/silverstripe-mdbootstrap",
   "license": "MIT",
   "type": "silverstripe-vendormodule",
   "require": {
@@ -9,7 +9,12 @@
   },
   "autoload": {
     "psr-4": {
-      "ConnyNyman\\LaravelMix\\": "src/"
+      "ConnyNyman\\MDBootstrap\\": "src/"
     }
+  },
+  "extra": {
+    "expose": [
+      "node_modules/mdbootstrap"
+    ]
   }
 }

@@ -1,3 +1,5 @@
 .idea/
 vendor/
 resources/
+node_modules/*
+!node_modules/mdbootstrap/
